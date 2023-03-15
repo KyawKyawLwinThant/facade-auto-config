@@ -1,0 +1,4 @@
+com\demo\config\JpaConfig.class
+META-INF\spring-autoconfigure-metadata.properties
+com\demo\config\DataSourceConfig.class
+com\demo\facade\AbstractFacade.class
